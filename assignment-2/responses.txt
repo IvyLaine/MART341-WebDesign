@@ -1,0 +1,3 @@
+A direcrory is a structural organization that resembles a tree with a single root that branches off into related groups of content. Directories inside the root directory are subdirectories stored within the direcctories are files and file systems.
+VCS is useful in managing ang tracking changes to documents, files and other collections of information. 
+My medium of choice is ceramics because I love workings hands on forming and creating works of art. 
