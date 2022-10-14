@@ -1,0 +1,3 @@
+DNS translates domain names to IP addresses so browsers can load internet resources. 
+A cookie is the information saved by your web browser. 
+The three essential parts of a url are the protocol, domain, and paths.
