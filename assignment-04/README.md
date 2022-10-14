@@ -1,1 +1,2 @@
 ![screenshot](./images/)
+A browser can take you wherever you are wanting to go on the internet. It gets information from different parts of the web and displays them on your computer. I use google to search for what I am looing for. 
