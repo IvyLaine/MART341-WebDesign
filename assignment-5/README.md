@@ -1,0 +1,1 @@
+The website I visited using The Wayback Machine was Google from 1999. The older version does not have current news going on throughout the world like todays site. There are no photos on the homepage just a search bar and links for more information about google as well as an option to receive email updates from Google. 
