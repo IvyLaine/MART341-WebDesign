@@ -1,0 +1,1 @@
+The difference between semantic markup and structural markup is that semantic markup is a way of writing that explains the purpose of an element and structural elements explain the relation of its content to other content in other elements within a document. 
