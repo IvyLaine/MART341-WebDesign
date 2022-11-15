@@ -1,0 +1,3 @@
+An Affordance is the quality or property of an object that defines its possible uses or makes clear how it can or should be used. 
+Advantages of using a third-party service is less work that needs to be done on your part when it is available and free. On the other hand these third party services may cost so have to be careful on budget expenses that can be a disadvantage. 
+Challenges i faced were adding all the different videos and labeling correctly my html is not as long as yours and im not sure exactly what I am all missing but from the rubric i think i got everything i think but this is a learning process for me. 
